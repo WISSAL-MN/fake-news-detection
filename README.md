@@ -30,12 +30,23 @@ What things you need to install the software and how to install them:
 RMQ////
 
 *if you have chosen to install python 3.6 then run below commands in command prompt/terminal to install these packages
-pip install -U scikit-learn
-pip install numpy
-pip install scipy
+
+
+
+                pip install -U scikit-learn
+                pip install numpy
+                pip install scipy
 
 *if you have chosen to install anaconda then run below commands in anaconda prompt to install these packages
-conda install -c scikit-learn
-conda install -c anaconda numpy
-conda install -c anaconda scipy
+
+
+                conda install -c scikit-learn
+                conda install -c anaconda numpy
+                conda install -c anaconda scipy
+
+![ProcessFlow](https://user-images.githubusercontent.com/89531771/167226328-373daeaf-0370-4496-a288-50c13dffd0db.png)
+
+
+![I-Newspaper2](https://user-images.githubusercontent.com/89531771/167226335-e5b1f80d-9e5d-4756-85eb-a8fb1bed05ac.jpg)
+
 
